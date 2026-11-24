@@ -37,7 +37,7 @@ Du lädst deine Daten, QHC prüft sie, bereitet sie vor, schlägt eine Palette v
 
 **Look & Farbe**
 - Paletten SHO, HOO, HSO, OSH, OHS, OHH, HOS, HSS, **Foraxx**, Natural Red / Gold und ein Hubble-Look-Regler
-- **Auto Hubble**: sucht automatisch Palette, Kanalmischung und Farbvoreinstellung, die dem typischen Hubble-Look am nächsten kommen (gemessen an 23 Hubble-Bildern), und zeigt zwölf Varianten zur Auswahl
+- **Auto Hubble**: sucht automatisch Palette, Kanalmischung und Farbvoreinstellung, die dem typischen Hubble-Look am nächsten kommen und zeigt zwölf Varianten zur Auswahl, mit der Möglichkeit die Lieblingskombination zu speichern.
 - **Farbrad / Farbfeld** mit Zonen, Magenta-Schutz, Sättigung, Helligkeit und Referenzbild
 - S-II aus O-III mischen, Kanaltrennung, Hintergrund abdunkeln und entsättigen
 
