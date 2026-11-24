@@ -17,7 +17,7 @@ Du lädst deine Daten, QHC prüft sie, bereitet sie vor, schlägt eine Palette v
 
 ## Die Oberfläche
 
-![Menüübersicht und Highlightbilder](images/Übersicht.png)
+![Menüübersicht und Highlightbilder](images/Übersicht1.png)
 *Die Menübersicht mit Histogram, einem Fits header Vergleich und Highlightausschnitten und vorher nachher Wippen.*
 
 ![Hauptfenster](images/ui_main.jpg)
