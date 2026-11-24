@@ -1,0 +1,50 @@
+Quick Hubble Creator (QHC) - Proprietary License / Proprietäre Lizenz
+Copyright (c) 2026 Benjamin Bender. All rights reserved. / Alle Rechte vorbehalten.
+
+=== English ===
+
+1. Ownership. QHC (the program, its source code, texts, images and documentation) is the property of Benjamin Bender.
+   No part of it is released as open source.
+
+2. What you may do. You may download and run the released program (QHC.exe) free of charge for your own, non-commercial
+   use (private and hobby astrophotography).
+
+3. What you may not do without my written permission:
+   - copy, publish, redistribute or sell the source code or parts of it,
+   - modify, translate or build derivative works from the source code,
+   - reverse engineer, decompile or disassemble the program, as far as the law allows this restriction,
+   - redistribute the program (QHC.exe) outside of this repository, or sell it, or use it commercially,
+   - use the name "Quick Hubble Creator" or the program's images and texts for other products.
+
+4. Pictures you create with QHC belong to you. This license does not claim any rights to them.
+
+5. Third-party components (for example PySide6, NumPy, SciPy, OpenCV, Astropy, Pillow) remain under their own licenses.
+
+6. No warranty. The program is provided "as is", without warranty of any kind. The author is not liable for damages
+   arising from its use, as far as the law allows.
+
+7. Requests for other uses (for example commercial use or contributions to the code): starlog.developer@gmail.com
+
+=== Deutsch ===
+
+1. Eigentum. QHC (Programm, Quellcode, Texte, Bilder und Dokumentation) gehört Benjamin Bender. Nichts davon wird als
+   Open Source freigegeben.
+
+2. Das ist erlaubt. Das veröffentlichte Programm (QHC.exe) darf kostenlos heruntergeladen und für den eigenen,
+   nicht kommerziellen Gebrauch (private Astrofotografie als Hobby) benutzt werden.
+
+3. Ohne meine schriftliche Erlaubnis ist nicht erlaubt:
+   - den Quellcode oder Teile davon zu kopieren, zu veröffentlichen, weiterzugeben oder zu verkaufen,
+   - den Quellcode zu verändern, zu übersetzen oder daraus abgeleitete Werke zu erstellen,
+   - das Programm zurückzuentwickeln, zu dekompilieren oder zu zerlegen, soweit das Gesetz diese Einschränkung zulässt,
+   - das Programm (QHC.exe) außerhalb dieses Repositories weiterzugeben, zu verkaufen oder kommerziell zu nutzen,
+   - den Namen "Quick Hubble Creator" oder Bilder und Texte des Programms für andere Produkte zu verwenden.
+
+4. Bilder, die du mit QHC erstellst, gehören dir. Diese Lizenz erhebt keine Ansprüche darauf.
+
+5. Komponenten Dritter (zum Beispiel PySide6, NumPy, SciPy, OpenCV, Astropy, Pillow) bleiben unter ihren eigenen Lizenzen.
+
+6. Keine Gewährleistung. Das Programm wird "wie besehen" bereitgestellt, ohne Gewähr. Der Autor haftet nicht für
+   Schäden durch die Nutzung, soweit das Gesetz das zulässt.
+
+7. Anfragen zu anderen Nutzungen (zum Beispiel kommerziell oder Mitarbeit am Code): starlog.developer@gmail.com
