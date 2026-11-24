@@ -26,6 +26,14 @@ Du lädst deine Daten, QHC prüft sie, bereitet sie vor, schlägt eine Palette v
 ![Blend-in-Studio](images/ui_blend_in_studio.jpg)
 *Blend-in-Studio: das aktuelle Bild mit dem Original oder einem Snapshot einblenden und exportieren.*
 
+![Blend-in-Studio](images/crop.jpg)
+*Smart Crop: Auf einen Blick die Stellen mit schlechtem Signal erkennen und abschneiden.*
+
+
+![Blend-in-Studio](images/Übersicht.jpg)
+*Die Menübersicht mit Histogram, einem Fits header Vergleich und Highlightausschnitten und vorher nachher Wippen.*
+
+
 ## Was kann QHC?
 
 **Daten & Vorbereitung**
