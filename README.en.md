@@ -16,6 +16,11 @@ QHC is made for everyone who shoots with duo-band filters (for example smart tel
 You load your data, QHC checks and prepares it, suggests a palette and leads you step by step to the finished picture. Every step shows **Before and Now** side by side, and every change can be undone.
 
 ## The interface
+![Menu overview and Highlightpictures](images/Übersicht.png)
+*The menu with histogram, fits header comparing and highlight-pictures as well as a A/B Wipe.*
+
+![Smart Crop](images/crop.png)
+*Smart Crop: Instant see where is enough data and where not to make smart cropping decisions.*
 
 ![Main window](images/ui_main_en.jpg)
 *Main window: menus on the left (Data, Background, Palette, Color, Fine-tuning, Stars, Output), preview with palette bar, highlight crops and snapshot bar.*
