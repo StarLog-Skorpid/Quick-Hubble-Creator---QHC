@@ -37,7 +37,7 @@ You load your data, QHC checks and prepares it, suggests a palette and leads you
 
 **Look and colour**
 - Palettes SHO, HOO, HSO, OSH, OHS, OHH, HOS, HSS, **Foraxx**, Natural Red / Gold and a Hubble-look slider
-- **Auto Hubble**: automatically searches the palette, channel mix and colour preset that come closest to the typical Hubble look (measured on 23 Hubble pictures) and shows twelve variants to choose from
+- **Auto Hubble**: automatically searches the palette, channel mix and colour preset that come closest to the typical Hubble look and shows twelve variants to choose from, you can also set your favorite colors
 - **Colour wheel / colour field** with zones, magenta protection, saturation, brightness and reference picture
 - Mix S-II from O-III, channel separation, darken and desaturate the background
 
