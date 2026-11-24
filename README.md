@@ -17,6 +17,9 @@ Du lädst deine Daten, QHC prüft sie, bereitet sie vor, schlägt eine Palette v
 
 ## Die Oberfläche
 
+![Menüübersicht und Highlightbilder](images/Übersicht.png)
+*Die Menübersicht mit Histogram, einem Fits header Vergleich und Highlightausschnitten und vorher nachher Wippen.*
+
 ![Hauptfenster](images/ui_main.jpg)
 *Hauptfenster: Menüs links (Daten · Hintergrund · Palette · Farbe · Feinschliff · Sterne · Ausgabe), Vorschau mit Palettenleiste, Highlight-Ausschnitten und Snapshot-Leiste.*
 
@@ -26,12 +29,9 @@ Du lädst deine Daten, QHC prüft sie, bereitet sie vor, schlägt eine Palette v
 ![Blend-in-Studio](images/ui_blend_in_studio.jpg)
 *Blend-in-Studio: das aktuelle Bild mit dem Original oder einem Snapshot einblenden und exportieren.*
 
-![Blend-in-Studio](images/crop.jpg)
+![Smart Crop](images/crop.png)
 *Smart Crop: Auf einen Blick die Stellen mit schlechtem Signal erkennen und abschneiden.*
 
-
-![Blend-in-Studio](images/Übersicht.jpg)
-*Die Menübersicht mit Histogram, einem Fits header Vergleich und Highlightausschnitten und vorher nachher Wippen.*
 
 
 ## Was kann QHC?
