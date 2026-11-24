@@ -67,11 +67,11 @@ Du lädst deine Daten, QHC prüft sie, bereitet sie vor, schlägt eine Palette v
 ## Systemvoraussetzungen
 
 - **Windows 10 oder 11, 64 Bit**
-- **Arbeitsspeicher:** mindestens 8 GB, empfohlen 16 GB. Bei einem Bild mit 12 Megapixeln braucht QHC beim Export etwa 3 GB; größere Kameras entsprechend mehr.
+- **Arbeitsspeicher:** mindestens 8 GB, empfohlen 16 GB.
 - **Bildschirm:** ab 1600 × 900 Pixel empfohlen
 - **Grafikkarte:** keine besondere nötig, die Berechnung läuft auf dem Prozessor
 - **Eingangsdaten:** FITS-Dateien (linear, aufgenommen mit Duo-Band-, Schmalband- oder Smart-Teleskop)
-- **Optional:** vorhandene Programme wie BlurXTerminator, NoiseXTerminator, StarXTerminator, StarNet oder GraXpert werden bei Bedarf angesprochen; für die Himmelskoordinaten (Plate Solving) wird eine Internetverbindung gebraucht. Siril ist nicht nötig.
+- **Optional:** vorhandene Programme wie BlurXTerminator, NoiseXTerminator, StarXTerminator, StarNet oder GraXpert werden bei Bedarf angesprochen; für die Himmelskoordinaten (Plate Solving) wird eine Internetverbindung gebraucht. Siril ist nicht nötig aber empfehlenswert.
 
 ## Installation
 
